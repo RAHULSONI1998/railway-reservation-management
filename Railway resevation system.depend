@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1528066640 source:g:\programing\project sca\railway resevation system\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conio2.h"
+	"rlyres.h"
+
+1524942212 g:\programing\project sca\railway resevation system\rlyrey.c
+	<stdio.h>
+	<stdlib.h>
+	"conio2.h"
+	"rlyres.h"
+
+1386420876 g:\programing\project sca\railway resevation system\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1386340778 g:\programing\project sca\railway resevation system\conio2.h
+	<conio.h>
+	<windows.h>
+
+1528913377 g:\programing\project sca\railway resevation system\rlyres.h
+
+1524942371 source:g:\programing\project sca\railway resevation system\rlyrey.c
+	<stdio.h>
+	<stdlib.h>
+	"conio2.h"
+	"rlyres.h"
+
+1550845573 source:g:\programing\project sca\railway resevation system\rlyress.c
+	<stdio.h>
+	<stdlib.h>
+	"conio2.h"
+	"rlyres.h"
+
+1386420876 source:g:\programing\project sca\railway resevation system\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
